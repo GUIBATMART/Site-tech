@@ -17,13 +17,16 @@ body{
     #area-cabecalho{     
         width: 100%;
     }
+    
+    #area-postagens, #area-principal{
+        max-width: 100%;
 
     .postagem{
         max-width: 100%;
     }
 
-    #area-postagens, #area-principal{
-        max-width: 100%;
+    h1{
+        font-size: 2em
     }
 
     img{
