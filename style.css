@@ -17,19 +17,19 @@ body{
     #area-cabecalho{     
         width: 100%;
     }
-    
-    #area-postagens, #area-principal{
-        max-width: 100%;
-    }
+
     .postagem{
         max-width: 100%;
     }
 
+    #area-postagens, #area-principal{
+        max-width: 100%;
+    }
+
     img{
-        max-width: 40px;
+        max-width: 300px;
     }
 }
-
 #area-cabecalho{
     background-color: rgb(135, 128, 233);
     padding: 15px;
